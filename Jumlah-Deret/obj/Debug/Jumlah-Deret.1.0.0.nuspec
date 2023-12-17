@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Jumlah-Deret</id>
+    <version>1.0.0</version>
+    <authors>Jumlah-Deret</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.runtimeconfig.json" target="lib\net8.0\Jumlah-Deret.runtimeconfig.json" />
+    <file src="C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.dll" target="lib\net8.0\Jumlah-Deret.dll" />
+  </files>
+</package>

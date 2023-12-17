@@ -1,0 +1,42 @@
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.exe
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.deps.json
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.runtimeconfig.json
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.dll
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.pdb
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.AssemblyInfoInputs.cache
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.AssemblyInfo.cs
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.csproj.CoreCompileInputs.cache
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.dll
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\refint\Jumlah-Deret.dll
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.pdb
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.genruntimeconfig.cache
+C:\Users\fhm\source\repos\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\ref\Jumlah-Deret.dll
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.exe
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.deps.json
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.runtimeconfig.json
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.dll
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.pdb
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.AssemblyInfoInputs.cache
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.AssemblyInfo.cs
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.csproj.CoreCompileInputs.cache
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.dll
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\refint\Jumlah-Deret.dll
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.pdb
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.genruntimeconfig.cache
+D:\Tugas ayang\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\ref\Jumlah-Deret.dll
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.exe
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.deps.json
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.runtimeconfig.json
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.dll
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\bin\Debug\net8.0\Jumlah-Deret.pdb
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.AssemblyInfoInputs.cache
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.AssemblyInfo.cs
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.csproj.CoreCompileInputs.cache
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.dll
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\refint\Jumlah-Deret.dll
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.pdb
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\Jumlah-Deret.genruntimeconfig.cache
+D:\Tugas Amalia Puji Lestari\Jumlah-Deret\Jumlah-Deret\obj\Debug\net8.0\ref\Jumlah-Deret.dll
